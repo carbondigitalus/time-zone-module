@@ -1,0 +1,4254 @@
+{
+    "timezone": {
+        {
+            "time_zone_id": "1",
+            "country_code": "AD",
+            "country_name": "Andorra",
+            "time_zone_region": "Europe",
+            "city_name": "Andorra",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "2",
+            "country_code": "AE",
+            "country_name": "United Arab Emirates",
+            "time_zone_region": "Asia",
+            "city_name": "Dubai",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "3",
+            "country_code": "AF",
+            "country_name": "Afghanistan",
+            "time_zone_region": "Asia",
+            "city_name": "Kabul",
+            "time_zone_abbreviation": "AFT",
+            "time_zone_name": "Afghanistan Time",
+            "utc_offset": "UTC+04:30"
+        },
+        {
+            "time_zone_id": "4",
+            "country_code": "AG",
+            "country_name": "Antigua and Barbuda",
+            "time_zone_region": "America",
+            "city_name": "Antigua",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "5",
+            "country_code": "AI",
+            "country_name": "Anguilla",
+            "time_zone_region": "America",
+            "city_name": "Anguilla",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "6",
+            "country_code": "AL",
+            "country_name": "Albania",
+            "time_zone_region": "Europe",
+            "city_name": "Tirane",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "7",
+            "country_code": "AM",
+            "country_name": "Armenia",
+            "time_zone_region": "Asia",
+            "city_name": "Yerevan",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "8",
+            "country_code": "AO",
+            "country_name": "Angola",
+            "time_zone_region": "Africa",
+            "city_name": "Luanda",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "9",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "McMurdo",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "10",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Casey",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "11",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Davis",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "12",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "DumontDUrville",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "13",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Mawson",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "14",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Palmer",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "15",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Rothera",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "16",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Syowa",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "17",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Troll",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "18",
+            "country_code": "AQ",
+            "country_name": "Antarctica",
+            "time_zone_region": "Antarctica",
+            "city_name": "Vostok",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "19",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Buenos_Aires",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "20",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Cordoba",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "21",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Salta",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "22",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Jujuy",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "23",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Tucuman",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "24",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Catamarca",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "25",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "La_Rioja",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "26",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "San_Juan",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "27",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Mendoza",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "28",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "San_Luis",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "29",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Rio_Gallegos",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "30",
+            "country_code": "AR",
+            "country_name": "Argentina",
+            "time_zone_region": "America",
+            "city_name": "Ushuaia",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "31",
+            "country_code": "AS",
+            "country_name": "American Samoa",
+            "time_zone_region": "Pacific",
+            "city_name": "Pago_Pago",
+            "time_zone_abbreviation": "MIT",
+            "time_zone_name": "Midway Islands Time",
+            "utc_offset": "UTC-11:00"
+        },
+        {
+            "time_zone_id": "32",
+            "country_code": "AT",
+            "country_name": "Austria",
+            "time_zone_region": "Europe",
+            "city_name": "Vienna",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "33",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Lord_Howe",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "34",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Antarctica",
+            "city_name": "Macquarie",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "35",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Hobart",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "36",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Currie",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "37",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Melbourne",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "38",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Sydney",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "39",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Broken_Hill",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "40",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Brisbane",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "41",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Lindeman",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "42",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Adelaide",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "43",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Darwin",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "44",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Perth",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "45",
+            "country_code": "AU",
+            "country_name": "Australia",
+            "time_zone_region": "Australia",
+            "city_name": "Eucla",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "46",
+            "country_code": "AW",
+            "country_name": "Aruba",
+            "time_zone_region": "America",
+            "city_name": "Aruba",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "47",
+            "country_code": "AX",
+            "country_name": "√Öland Islands",
+            "time_zone_region": "Europe",
+            "city_name": "Mariehamn",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "48",
+            "country_code": "AZ",
+            "country_name": "Azerbaijan",
+            "time_zone_region": "Asia",
+            "city_name": "Baku",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "49",
+            "country_code": "BA",
+            "country_name": "Bosnia and Herzegovina",
+            "time_zone_region": "Europe",
+            "city_name": "Sarajevo",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "50",
+            "country_code": "BB",
+            "country_name": "Barbados",
+            "time_zone_region": "America",
+            "city_name": "Barbados",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "51",
+            "country_code": "BD",
+            "country_name": "Bangladesh",
+            "time_zone_region": "Asia",
+            "city_name": "Dhaka",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "52",
+            "country_code": "BE",
+            "country_name": "Belgium",
+            "time_zone_region": "Europe",
+            "city_name": "Brussels",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "53",
+            "country_code": "BF",
+            "country_name": "Burkina Faso",
+            "time_zone_region": "Africa",
+            "city_name": "Ouagadougou",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "54",
+            "country_code": "BG",
+            "country_name": "Bulgaria",
+            "time_zone_region": "Europe",
+            "city_name": "Sofia",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "55",
+            "country_code": "BH",
+            "country_name": "Bahrain",
+            "time_zone_region": "Asia",
+            "city_name": "Bahrain",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "56",
+            "country_code": "BI",
+            "country_name": "Burundi",
+            "time_zone_region": "Africa",
+            "city_name": "Bujumbura",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "57",
+            "country_code": "BJ",
+            "country_name": "Benin",
+            "time_zone_region": "Africa",
+            "city_name": "Porto-Novo",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "58",
+            "country_code": "BL",
+            "country_name": "Saint Barth√©lemy",
+            "time_zone_region": "America",
+            "city_name": "St_Barthelemy",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "59",
+            "country_code": "BM",
+            "country_name": "Bermuda",
+            "time_zone_region": "Atlantic",
+            "city_name": "Bermuda",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "60",
+            "country_code": "BN",
+            "country_name": "Brunei Darussalam",
+            "time_zone_region": "Asia",
+            "city_name": "Brunei",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "61",
+            "country_code": "BO",
+            "country_name": "Bolivia, Plurinational State of",
+            "time_zone_region": "America",
+            "city_name": "La_Paz",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "62",
+            "country_code": "BQ",
+            "country_name": "Bonaire, Sint Eustatius and Saba",
+            "time_zone_region": "America",
+            "city_name": "Kralendijk",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "63",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Noronha",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "64",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Belem",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "65",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Fortaleza",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "66",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Recife",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "67",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Araguaina",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "68",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Maceio",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "69",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Bahia",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "70",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Sao_Paulo",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "71",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Campo_Grande",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "72",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Cuiaba",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "73",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Santarem",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "74",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Porto_Velho",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "75",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Boa_Vista",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "76",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Manaus",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "77",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Eirunepe",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "78",
+            "country_code": "BR",
+            "country_name": "Brazil",
+            "time_zone_region": "America",
+            "city_name": "Rio_Branco",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "79",
+            "country_code": "BS",
+            "country_name": "Bahamas",
+            "time_zone_region": "America",
+            "city_name": "Nassau",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "80",
+            "country_code": "BT",
+            "country_name": "Bhutan",
+            "time_zone_region": "Asia",
+            "city_name": "Thimphu",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "81",
+            "country_code": "BW",
+            "country_name": "Botswana",
+            "time_zone_region": "Africa",
+            "city_name": "Gaborone",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "82",
+            "country_code": "BY",
+            "country_name": "Belarus",
+            "time_zone_region": "Europe",
+            "city_name": "Minsk",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "83",
+            "country_code": "BZ",
+            "country_name": "Belize",
+            "time_zone_region": "America",
+            "city_name": "Belize",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "84",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "St_Johns",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "85",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Halifax",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "86",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Glace_Bay",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "87",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Moncton",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "88",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Goose_Bay",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "89",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Blanc-Sablon",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "90",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Toronto",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "91",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Nipigon",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "92",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Thunder_Bay",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "93",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Iqaluit",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "94",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Pangnirtung",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "95",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Atikokan",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "96",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Winnipeg",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "97",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Rainy_River",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "98",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Resolute",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "99",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Rankin_Inlet",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "100",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Regina",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "101",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Swift_Current",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "102",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Edmonton",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "103",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Cambridge_Bay",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "104",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Yellowknife",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "105",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Inuvik",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "106",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Creston",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "107",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Dawson_Creek",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "108",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Fort_Nelson",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "109",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Vancouver",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "110",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Whitehorse",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "111",
+            "country_code": "CA",
+            "country_name": "Canada",
+            "time_zone_region": "America",
+            "city_name": "Dawson",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "112",
+            "country_code": "CC",
+            "country_name": "Cocos (Keeling) Islands",
+            "time_zone_region": "Indian",
+            "city_name": "Cocos",
+            "time_zone_abbreviation": "CCT",
+            "time_zone_name": "Cocos Islands Time",
+            "utc_offset": "UTC+06:30"
+        },
+        {
+            "time_zone_id": "113",
+            "country_code": "CD",
+            "country_name": "Congo, the Democratic Republic of the",
+            "time_zone_region": "Africa",
+            "city_name": "Kinshasa",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "114",
+            "country_code": "CD",
+            "country_name": "Congo, the Democratic Republic of the",
+            "time_zone_region": "Africa",
+            "city_name": "Lubumbashi",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "115",
+            "country_code": "CF",
+            "country_name": "Central African Republic",
+            "time_zone_region": "Africa",
+            "city_name": "Bangui",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "116",
+            "country_code": "CG",
+            "country_name": "Congo",
+            "time_zone_region": "Africa",
+            "city_name": "Brazzaville",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "117",
+            "country_code": "CH",
+            "country_name": "Switzerland",
+            "time_zone_region": "Europe",
+            "city_name": "Zurich",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "118",
+            "country_code": "CI",
+            "country_name": "C√¥te d'Ivoire",
+            "time_zone_region": "Africa",
+            "city_name": "Abidjan",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "119",
+            "country_code": "CK",
+            "country_name": "Cook Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Rarotonga",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "120",
+            "country_code": "CL",
+            "country_name": "Chile",
+            "time_zone_region": "America",
+            "city_name": "Santiago",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "121",
+            "country_code": "CL",
+            "country_name": "Chile",
+            "time_zone_region": "America",
+            "city_name": "Punta_Arenas",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "122",
+            "country_code": "CL",
+            "country_name": "Chile",
+            "time_zone_region": "Pacific",
+            "city_name": "Easter",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "123",
+            "country_code": "CM",
+            "country_name": "Cameroon",
+            "time_zone_region": "Africa",
+            "city_name": "Douala",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "124",
+            "country_code": "CN",
+            "country_name": "China",
+            "time_zone_region": "Asia",
+            "city_name": "Shanghai",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "125",
+            "country_code": "CN",
+            "country_name": "China",
+            "time_zone_region": "Asia",
+            "city_name": "Urumqi",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "126",
+            "country_code": "CO",
+            "country_name": "Colombia",
+            "time_zone_region": "America",
+            "city_name": "Bogota",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "127",
+            "country_code": "CR",
+            "country_name": "Costa Rica",
+            "time_zone_region": "America",
+            "city_name": "Costa_Rica",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "128",
+            "country_code": "CU",
+            "country_name": "Cuba",
+            "time_zone_region": "America",
+            "city_name": "Havana",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "129",
+            "country_code": "CV",
+            "country_name": "Cape Verde",
+            "time_zone_region": "Atlantic",
+            "city_name": "Cape_Verde",
+            "time_zone_abbreviation": "CAT",
+            "time_zone_name": "Central African Time",
+            "utc_offset": "UTC-01:00"
+        },
+        {
+            "time_zone_id": "130",
+            "country_code": "CW",
+            "country_name": "Cura√ßao",
+            "time_zone_region": "America",
+            "city_name": "Curacao",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "131",
+            "country_code": "CX",
+            "country_name": "Christmas Island",
+            "time_zone_region": "Indian",
+            "city_name": "Christmas",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "132",
+            "country_code": "CY",
+            "country_name": "Cyprus",
+            "time_zone_region": "Asia",
+            "city_name": "Nicosia",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "133",
+            "country_code": "CY",
+            "country_name": "Cyprus",
+            "time_zone_region": "Asia",
+            "city_name": "Famagusta",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "134",
+            "country_code": "CZ",
+            "country_name": "Czech Republic",
+            "time_zone_region": "Europe",
+            "city_name": "Prague",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "135",
+            "country_code": "DE",
+            "country_name": "Germany",
+            "time_zone_region": "Europe",
+            "city_name": "Berlin",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "136",
+            "country_code": "DE",
+            "country_name": "Germany",
+            "time_zone_region": "Europe",
+            "city_name": "Busingen",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "137",
+            "country_code": "DJ",
+            "country_name": "Djibouti",
+            "time_zone_region": "Africa",
+            "city_name": "Djibouti",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "138",
+            "country_code": "DK",
+            "country_name": "Denmark",
+            "time_zone_region": "Europe",
+            "city_name": "Copenhagen",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "139",
+            "country_code": "DM",
+            "country_name": "Dominica",
+            "time_zone_region": "America",
+            "city_name": "Dominica",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "140",
+            "country_code": "DO",
+            "country_name": "Dominican Republic",
+            "time_zone_region": "America",
+            "city_name": "Santo_Domingo",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "141",
+            "country_code": "DZ",
+            "country_name": "Algeria",
+            "time_zone_region": "Africa",
+            "city_name": "Algiers",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "142",
+            "country_code": "EC",
+            "country_name": "Ecuador",
+            "time_zone_region": "America",
+            "city_name": "Guayaquil",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "143",
+            "country_code": "EC",
+            "country_name": "Ecuador",
+            "time_zone_region": "Pacific",
+            "city_name": "Galapagos",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "144",
+            "country_code": "EE",
+            "country_name": "Estonia",
+            "time_zone_region": "Europe",
+            "city_name": "Tallinn",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "145",
+            "country_code": "EG",
+            "country_name": "Egypt",
+            "time_zone_region": "Africa",
+            "city_name": "Cairo",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "146",
+            "country_code": "EH",
+            "country_name": "Western Sahara",
+            "time_zone_region": "Africa",
+            "city_name": "El_Aaiun",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "147",
+            "country_code": "ER",
+            "country_name": "Eritrea",
+            "time_zone_region": "Africa",
+            "city_name": "Asmara",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "148",
+            "country_code": "ES",
+            "country_name": "Spain",
+            "time_zone_region": "Europe",
+            "city_name": "Madrid",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "149",
+            "country_code": "ES",
+            "country_name": "Spain",
+            "time_zone_region": "Africa",
+            "city_name": "Ceuta",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "150",
+            "country_code": "ES",
+            "country_name": "Spain",
+            "time_zone_region": "Atlantic",
+            "city_name": "Canary",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "151",
+            "country_code": "ET",
+            "country_name": "Ethiopia",
+            "time_zone_region": "Africa",
+            "city_name": "Addis_Ababa",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "152",
+            "country_code": "FI",
+            "country_name": "Finland",
+            "time_zone_region": "Europe",
+            "city_name": "Helsinki",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "153",
+            "country_code": "FJ",
+            "country_name": "Fiji",
+            "time_zone_region": "Pacific",
+            "city_name": "Fiji",
+            "time_zone_abbreviation": "FJT",
+            "time_zone_name": "Fiji Time",
+            "utc_offset": "UTC+13:00"
+        },
+        {
+            "time_zone_id": "154",
+            "country_code": "FK",
+            "country_name": "Falkland Islands (Malvinas)",
+            "time_zone_region": "Atlantic",
+            "city_name": "Stanley",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "155",
+            "country_code": "FM",
+            "country_name": "Micronesia, Federated States of",
+            "time_zone_region": "Pacific",
+            "city_name": "Chuuk",
+            "time_zone_abbreviation": "AET",
+            "time_zone_name": "Australia Eastern Time",
+            "utc_offset": "UTC+10:00"
+        },
+        {
+            "time_zone_id": "156",
+            "country_code": "FM",
+            "country_name": "Micronesia, Federated States of",
+            "time_zone_region": "Pacific",
+            "city_name": "Pohnpei",
+            "time_zone_abbreviation": "AET",
+            "time_zone_name": "Australia Eastern Time",
+            "utc_offset": "UTC+10:00"
+        },
+        {
+            "time_zone_id": "157",
+            "country_code": "FM",
+            "country_name": "Micronesia, Federated States of",
+            "time_zone_region": "Pacific",
+            "city_name": "Kosrae",
+            "time_zone_abbreviation": "AET",
+            "time_zone_name": "Australia Eastern Time",
+            "utc_offset": "UTC+10:00"
+        },
+        {
+            "time_zone_id": "158",
+            "country_code": "FO",
+            "country_name": "Faroe Islands",
+            "time_zone_region": "Atlantic",
+            "city_name": "Faroe",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "159",
+            "country_code": "FR",
+            "country_name": "France",
+            "time_zone_region": "Europe",
+            "city_name": "Paris",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "160",
+            "country_code": "GA",
+            "country_name": "Gabon",
+            "time_zone_region": "Africa",
+            "city_name": "Libreville",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "161",
+            "country_code": "GB",
+            "country_name": "United Kingdom",
+            "time_zone_region": "Europe",
+            "city_name": "London",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "162",
+            "country_code": "GD",
+            "country_name": "Grenada",
+            "time_zone_region": "America",
+            "city_name": "Grenada",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "163",
+            "country_code": "GE",
+            "country_name": "Georgia",
+            "time_zone_region": "Asia",
+            "city_name": "Tbilisi",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "164",
+            "country_code": "GF",
+            "country_name": "French Guiana",
+            "time_zone_region": "America",
+            "city_name": "Cayenne",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "165",
+            "country_code": "GG",
+            "country_name": "Guernsey",
+            "time_zone_region": "Europe",
+            "city_name": "Guernsey",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "166",
+            "country_code": "GH",
+            "country_name": "Ghana",
+            "time_zone_region": "Africa",
+            "city_name": "Accra",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "167",
+            "country_code": "GI",
+            "country_name": "Gibraltar",
+            "time_zone_region": "Europe",
+            "city_name": "Gibraltar",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "168",
+            "country_code": "GL",
+            "country_name": "Greenland",
+            "time_zone_region": "America",
+            "city_name": "Godthab",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "169",
+            "country_code": "GL",
+            "country_name": "Greenland",
+            "time_zone_region": "America",
+            "city_name": "Danmarkshavn",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "170",
+            "country_code": "GL",
+            "country_name": "Greenland",
+            "time_zone_region": "America",
+            "city_name": "Scoresbysund",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "171",
+            "country_code": "GL",
+            "country_name": "Greenland",
+            "time_zone_region": "America",
+            "city_name": "Thule",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "172",
+            "country_code": "GM",
+            "country_name": "Gambia",
+            "time_zone_region": "Africa",
+            "city_name": "Banjul",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "173",
+            "country_code": "GN",
+            "country_name": "Guinea",
+            "time_zone_region": "Africa",
+            "city_name": "Conakry",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "174",
+            "country_code": "GP",
+            "country_name": "Guadeloupe",
+            "time_zone_region": "America",
+            "city_name": "Guadeloupe",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "175",
+            "country_code": "GQ",
+            "country_name": "Equatorial Guinea",
+            "time_zone_region": "Africa",
+            "city_name": "Malabo",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "176",
+            "country_code": "GR",
+            "country_name": "Greece",
+            "time_zone_region": "Europe",
+            "city_name": "Athens",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "177",
+            "country_code": "GS",
+            "country_name": "South Georgia and the South Sandwich Islands",
+            "time_zone_region": "Atlantic",
+            "city_name": "South_Georgia",
+            "time_zone_abbreviation": "GST",
+            "time_zone_name": "South Georgia Time",
+            "utc_offset": "UTC-02:00"
+        },
+        {
+            "time_zone_id": "178",
+            "country_code": "GT",
+            "country_name": "Guatemala",
+            "time_zone_region": "America",
+            "city_name": "Guatemala",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "179",
+            "country_code": "GU",
+            "country_name": "Guam",
+            "time_zone_region": "Pacific",
+            "city_name": "Guam",
+            "time_zone_abbreviation": "AET",
+            "time_zone_name": "Australia Eastern Time",
+            "utc_offset": "UTC+10:00"
+        },
+        {
+            "time_zone_id": "180",
+            "country_code": "GW",
+            "country_name": "Guinea-Bissau",
+            "time_zone_region": "Africa",
+            "city_name": "Bissau",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "181",
+            "country_code": "GY",
+            "country_name": "Guyana",
+            "time_zone_region": "America",
+            "city_name": "Guyana",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "182",
+            "country_code": "HK",
+            "country_name": "Hong Kong",
+            "time_zone_region": "Asia",
+            "city_name": "Hong_Kong",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "183",
+            "country_code": "HN",
+            "country_name": "Honduras",
+            "time_zone_region": "America",
+            "city_name": "Tegucigalpa",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "184",
+            "country_code": "HR",
+            "country_name": "Croatia",
+            "time_zone_region": "Europe",
+            "city_name": "Zagreb",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "185",
+            "country_code": "HT",
+            "country_name": "Haiti",
+            "time_zone_region": "America",
+            "city_name": "Port-au-Prince",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "186",
+            "country_code": "HU",
+            "country_name": "Hungary",
+            "time_zone_region": "Europe",
+            "city_name": "Budapest",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "187",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "time_zone_region": "Asia",
+            "city_name": "Jakarta",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "188",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "time_zone_region": "Asia",
+            "city_name": "Pontianak",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "189",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "time_zone_region": "Asia",
+            "city_name": "Makassar",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "190",
+            "country_code": "ID",
+            "country_name": "Indonesia",
+            "time_zone_region": "Asia",
+            "city_name": "Jayapura",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "191",
+            "country_code": "IE",
+            "country_name": "Ireland",
+            "time_zone_region": "Europe",
+            "city_name": "Dublin",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "192",
+            "country_code": "IL",
+            "country_name": "Israel",
+            "time_zone_region": "Asia",
+            "city_name": "Jerusalem",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "193",
+            "country_code": "IM",
+            "country_name": "Isle of Man",
+            "time_zone_region": "Europe",
+            "city_name": "Isle_of_Man",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "194",
+            "country_code": "IN",
+            "country_name": "India",
+            "time_zone_region": "Asia",
+            "city_name": "Kolkata",
+            "time_zone_abbreviation": "IST",
+            "time_zone_name": "India Standard Time",
+            "utc_offset": "UTC+05:30"
+        },
+        {
+            "time_zone_id": "195",
+            "country_code": "IO",
+            "country_name": "British Indian Ocean Territory",
+            "time_zone_region": "Indian",
+            "city_name": "Chagos",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "196",
+            "country_code": "IQ",
+            "country_name": "Iraq",
+            "time_zone_region": "Asia",
+            "city_name": "Baghdad",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "197",
+            "country_code": "IR",
+            "country_name": "Iran, Islamic Republic of",
+            "time_zone_region": "Asia",
+            "city_name": "Tehran",
+            "time_zone_abbreviation": "MET",
+            "time_zone_name": "Middle East Time",
+            "utc_offset": "UTC+03:30"
+        },
+        {
+            "time_zone_id": "198",
+            "country_code": "IS",
+            "country_name": "Iceland",
+            "time_zone_region": "Atlantic",
+            "city_name": "Reykjavik",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "199",
+            "country_code": "IT",
+            "country_name": "Italy",
+            "time_zone_region": "Europe",
+            "city_name": "Rome",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "200",
+            "country_code": "JE",
+            "country_name": "Jersey",
+            "time_zone_region": "Europe",
+            "city_name": "Jersey",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "201",
+            "country_code": "JM",
+            "country_name": "Jamaica",
+            "time_zone_region": "America",
+            "city_name": "Jamaica",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "202",
+            "country_code": "JO",
+            "country_name": "Jordan",
+            "time_zone_region": "Asia",
+            "city_name": "Amman",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "203",
+            "country_code": "JP",
+            "country_name": "Japan",
+            "time_zone_region": "Asia",
+            "city_name": "Tokyo",
+            "time_zone_abbreviation": "JST",
+            "time_zone_name": "Japan Standard Time",
+            "utc_offset": "UTC+09:00"
+        },
+        {
+            "time_zone_id": "204",
+            "country_code": "KE",
+            "country_name": "Kenya",
+            "time_zone_region": "Africa",
+            "city_name": "Nairobi",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "205",
+            "country_code": "KG",
+            "country_name": "Kyrgyzstan",
+            "time_zone_region": "Asia",
+            "city_name": "Bishkek",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "206",
+            "country_code": "KH",
+            "country_name": "Cambodia",
+            "time_zone_region": "Asia",
+            "city_name": "Phnom_Penh",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "207",
+            "country_code": "KI",
+            "country_name": "Kiribati",
+            "time_zone_region": "Pacific",
+            "city_name": "Tarawa",
+            "time_zone_abbreviation": "GILT",
+            "time_zone_name": "Gilbert Island Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "208",
+            "country_code": "KI",
+            "country_name": "Kiribati",
+            "time_zone_region": "Pacific",
+            "city_name": "Enderbury",
+            "time_zone_abbreviation": "PHOT",
+            "time_zone_name": "Phoenix Island Time",
+            "utc_offset": "UTC+13:00"
+        },
+        {
+            "time_zone_id": "209",
+            "country_code": "KI",
+            "country_name": "Kiribati",
+            "time_zone_region": "Pacific",
+            "city_name": "Kiritimati",
+            "time_zone_abbreviation": "LINT",
+            "time_zone_name": "Line Islands Time",
+            "utc_offset": "UTC+14:00"
+        },
+        {
+            "time_zone_id": "210",
+            "country_code": "KM",
+            "country_name": "Comoros",
+            "time_zone_region": "Indian",
+            "city_name": "Comoro",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "211",
+            "country_code": "KN",
+            "country_name": "Saint Kitts and Nevis",
+            "time_zone_region": "America",
+            "city_name": "St_Kitts",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "212",
+            "country_code": "KP",
+            "country_name": "Korea, Democratic People's Republic of",
+            "time_zone_region": "Asia",
+            "city_name": "Pyongyang",
+            "time_zone_abbreviation": "JST",
+            "time_zone_name": "Japan Standard Time",
+            "utc_offset": "UTC+09:00"
+        },
+        {
+            "time_zone_id": "213",
+            "country_code": "KR",
+            "country_name": "Korea, Republic of",
+            "time_zone_region": "Asia",
+            "city_name": "Seoul",
+            "time_zone_abbreviation": "JST",
+            "time_zone_name": "Japan Standard Time",
+            "utc_offset": "UTC+09:00"
+        },
+        {
+            "time_zone_id": "214",
+            "country_code": "KW",
+            "country_name": "Kuwait",
+            "time_zone_region": "Asia",
+            "city_name": "Kuwait",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "215",
+            "country_code": "KY",
+            "country_name": "Cayman Islands",
+            "time_zone_region": "America",
+            "city_name": "Cayman",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "216",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Almaty",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "217",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Qyzylorda",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "218",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Qostanay",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "219",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Aqtobe",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "220",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Aqtau",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "221",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Atyrau",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "222",
+            "country_code": "KZ",
+            "country_name": "Kazakhstan",
+            "time_zone_region": "Asia",
+            "city_name": "Oral",
+            "time_zone_abbreviation": "BST",
+            "time_zone_name": "Bangladesh Standard Time",
+            "utc_offset": "UTC+06:00"
+        },
+        {
+            "time_zone_id": "223",
+            "country_code": "LA",
+            "country_name": "Lao People's Democratic Republic",
+            "time_zone_region": "Asia",
+            "city_name": "Vientiane",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "224",
+            "country_code": "LB",
+            "country_name": "Lebanon",
+            "time_zone_region": "Asia",
+            "city_name": "Beirut",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "225",
+            "country_code": "LC",
+            "country_name": "Saint Lucia",
+            "time_zone_region": "America",
+            "city_name": "St_Lucia",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "226",
+            "country_code": "LI",
+            "country_name": "Liechtenstein",
+            "time_zone_region": "Europe",
+            "city_name": "Vaduz",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "227",
+            "country_code": "LK",
+            "country_name": "Sri Lanka",
+            "time_zone_region": "Asia",
+            "city_name": "Colombo",
+            "time_zone_abbreviation": "IST",
+            "time_zone_name": "India Standard Time",
+            "utc_offset": "UTC+05:30"
+        },
+        {
+            "time_zone_id": "228",
+            "country_code": "LR",
+            "country_name": "Liberia",
+            "time_zone_region": "Africa",
+            "city_name": "Monrovia",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "229",
+            "country_code": "LS",
+            "country_name": "Lesotho",
+            "time_zone_region": "Africa",
+            "city_name": "Maseru",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "230",
+            "country_code": "LT",
+            "country_name": "Lithuania",
+            "time_zone_region": "Europe",
+            "city_name": "Vilnius",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "231",
+            "country_code": "LU",
+            "country_name": "Luxembourg",
+            "time_zone_region": "Europe",
+            "city_name": "Luxembourg",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "232",
+            "country_code": "LV",
+            "country_name": "Latvia",
+            "time_zone_region": "Europe",
+            "city_name": "Riga",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "233",
+            "country_code": "LY",
+            "country_name": "Libya",
+            "time_zone_region": "Africa",
+            "city_name": "Tripoli",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "234",
+            "country_code": "MA",
+            "country_name": "Morocco",
+            "time_zone_region": "Africa",
+            "city_name": "Casablanca",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "235",
+            "country_code": "MC",
+            "country_name": "Monaco",
+            "time_zone_region": "Europe",
+            "city_name": "Monaco",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "236",
+            "country_code": "MD",
+            "country_name": "Moldova, Republic of",
+            "time_zone_region": "Europe",
+            "city_name": "Chisinau",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "237",
+            "country_code": "ME",
+            "country_name": "Montenegro",
+            "time_zone_region": "Europe",
+            "city_name": "Podgorica",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "238",
+            "country_code": "MF",
+            "country_name": "Saint Martin (French part)",
+            "time_zone_region": "America",
+            "city_name": "Marigot",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "239",
+            "country_code": "MG",
+            "country_name": "Madagascar",
+            "time_zone_region": "Indian",
+            "city_name": "Antananarivo",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "240",
+            "country_code": "MH",
+            "country_name": "Marshall Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Majuro",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "241",
+            "country_code": "MH",
+            "country_name": "Marshall Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Kwajalein",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "242",
+            "country_code": "MK",
+            "country_name": "Macedonia, the Former Yugoslav Republic of",
+            "time_zone_region": "Europe",
+            "city_name": "Skopje",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "243",
+            "country_code": "ML",
+            "country_name": "Mali",
+            "time_zone_region": "Africa",
+            "city_name": "Bamako",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "244",
+            "country_code": "MM",
+            "country_name": "Myanmar",
+            "time_zone_region": "Asia",
+            "city_name": "Yangon",
+            "time_zone_abbreviation": "MMT",
+            "time_zone_name": "Myanmar Time",
+            "utc_offset": "UTC+06:30"
+        },
+        {
+            "time_zone_id": "245",
+            "country_code": "MN",
+            "country_name": "Mongolia",
+            "time_zone_region": "Asia",
+            "city_name": "Ulaanbaatar",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "246",
+            "country_code": "MN",
+            "country_name": "Mongolia",
+            "time_zone_region": "Asia",
+            "city_name": "Hovd",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "247",
+            "country_code": "MN",
+            "country_name": "Mongolia",
+            "time_zone_region": "Asia",
+            "city_name": "Choibalsan",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "248",
+            "country_code": "MO",
+            "country_name": "Macao",
+            "time_zone_region": "Asia",
+            "city_name": "Macau",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "249",
+            "country_code": "MP",
+            "country_name": "Northern Mariana Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Saipan",
+            "time_zone_abbreviation": "AET",
+            "time_zone_name": "Australia Eastern Time",
+            "utc_offset": "UTC+10:00"
+        },
+        {
+            "time_zone_id": "250",
+            "country_code": "MQ",
+            "country_name": "Martinique",
+            "time_zone_region": "America",
+            "city_name": "Martinique",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "251",
+            "country_code": "MR",
+            "country_name": "Mauritania",
+            "time_zone_region": "Africa",
+            "city_name": "Nouakchott",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "252",
+            "country_code": "MS",
+            "country_name": "Montserrat",
+            "time_zone_region": "America",
+            "city_name": "Montserrat",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "253",
+            "country_code": "MT",
+            "country_name": "Malta",
+            "time_zone_region": "Europe",
+            "city_name": "Malta",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "254",
+            "country_code": "MU",
+            "country_name": "Mauritius",
+            "time_zone_region": "Indian",
+            "city_name": "Mauritius",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "255",
+            "country_code": "MV",
+            "country_name": "Maldives",
+            "time_zone_region": "Indian",
+            "city_name": "Maldives",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "256",
+            "country_code": "MW",
+            "country_name": "Malawi",
+            "time_zone_region": "Africa",
+            "city_name": "Blantyre",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "257",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Mexico_City",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "258",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Cancun",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "259",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Merida",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "260",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Monterrey",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "261",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Matamoros",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "262",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Mazatlan",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "263",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Chihuahua",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "264",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Ojinaga",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "265",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Hermosillo",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "266",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Tijuana",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "267",
+            "country_code": "MX",
+            "country_name": "Mexico",
+            "time_zone_region": "America",
+            "city_name": "Bahia_Banderas",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "268",
+            "country_code": "MY",
+            "country_name": "Malaysia",
+            "time_zone_region": "Asia",
+            "city_name": "Kuala_Lumpur",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "269",
+            "country_code": "MY",
+            "country_name": "Malaysia",
+            "time_zone_region": "Asia",
+            "city_name": "Kuching",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "270",
+            "country_code": "MZ",
+            "country_name": "Mozambique",
+            "time_zone_region": "Africa",
+            "city_name": "Maputo",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "271",
+            "country_code": "NA",
+            "country_name": "Namibia",
+            "time_zone_region": "Africa",
+            "city_name": "Windhoek",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "272",
+            "country_code": "NC",
+            "country_name": "New Caledonia",
+            "time_zone_region": "Pacific",
+            "city_name": "Noumea",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "273",
+            "country_code": "NE",
+            "country_name": "Niger",
+            "time_zone_region": "Africa",
+            "city_name": "Niamey",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "274",
+            "country_code": "NF",
+            "country_name": "Norfolk Island",
+            "time_zone_region": "Pacific",
+            "city_name": "Norfolk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "275",
+            "country_code": "NG",
+            "country_name": "Nigeria",
+            "time_zone_region": "Africa",
+            "city_name": "Lagos",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "276",
+            "country_code": "NI",
+            "country_name": "Nicaragua",
+            "time_zone_region": "America",
+            "city_name": "Managua",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "277",
+            "country_code": "NL",
+            "country_name": "Netherlands",
+            "time_zone_region": "Europe",
+            "city_name": "Amsterdam",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "278",
+            "country_code": "NO",
+            "country_name": "Norway",
+            "time_zone_region": "Europe",
+            "city_name": "Oslo",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "279",
+            "country_code": "NP",
+            "country_name": "Nepal",
+            "time_zone_region": "Asia",
+            "city_name": "Kathmandu",
+            "time_zone_abbreviation": "NPT",
+            "time_zone_name": "Nepal Time",
+            "utc_offset": "UTC+05:45"
+        },
+        {
+            "time_zone_id": "280",
+            "country_code": "NR",
+            "country_name": "Nauru",
+            "time_zone_region": "Pacific",
+            "city_name": "Nauru",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "281",
+            "country_code": "NU",
+            "country_name": "Niue",
+            "time_zone_region": "Pacific",
+            "city_name": "Niue",
+            "time_zone_abbreviation": "MIT",
+            "time_zone_name": "Midway Islands Time",
+            "utc_offset": "UTC-11:00"
+        },
+        {
+            "time_zone_id": "282",
+            "country_code": "NZ",
+            "country_name": "New Zealand",
+            "time_zone_region": "Pacific",
+            "city_name": "Auckland",
+            "time_zone_abbreviation": "NZST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "283",
+            "country_code": "NZ",
+            "country_name": "New Zealand",
+            "time_zone_region": "Pacific",
+            "city_name": "Chatham",
+            "time_zone_abbreviation": "CHAST",
+            "time_zone_name": "Chatham Island Standard Time",
+            "utc_offset": "UTC+12:45"
+        },
+        {
+            "time_zone_id": "284",
+            "country_code": "OM",
+            "country_name": "Oman",
+            "time_zone_region": "Asia",
+            "city_name": "Muscat",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "285",
+            "country_code": "PA",
+            "country_name": "Panama",
+            "time_zone_region": "America",
+            "city_name": "Panama",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "286",
+            "country_code": "PE",
+            "country_name": "Peru",
+            "time_zone_region": "America",
+            "city_name": "Lima",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "287",
+            "country_code": "PF",
+            "country_name": "French Polynesia",
+            "time_zone_region": "Pacific",
+            "city_name": "Tahiti",
+            "time_zone_abbreviation": "AST",
+            "time_zone_name": "Alaska Standard Time",
+            "utc_offset": "UTC-09:00"
+        },
+        {
+            "time_zone_id": "288",
+            "country_code": "PF",
+            "country_name": "French Polynesia",
+            "time_zone_region": "Pacific",
+            "city_name": "Marquesas",
+            "time_zone_abbreviation": "AST",
+            "time_zone_name": "Alaska Standard Time",
+            "utc_offset": "UTC-09:00"
+        },
+        {
+            "time_zone_id": "289",
+            "country_code": "PF",
+            "country_name": "French Polynesia",
+            "time_zone_region": "Pacific",
+            "city_name": "Gambier",
+            "time_zone_abbreviation": "AST",
+            "time_zone_name": "Alaska Standard Time",
+            "utc_offset": "UTC-09:00"
+        },
+        {
+            "time_zone_id": "290",
+            "country_code": "PG",
+            "country_name": "Papua New Guinea",
+            "time_zone_region": "Pacific",
+            "city_name": "Port_Moresby",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "291",
+            "country_code": "PG",
+            "country_name": "Papua New Guinea",
+            "time_zone_region": "Pacific",
+            "city_name": "Bougainville",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "292",
+            "country_code": "PH",
+            "country_name": "Philippines",
+            "time_zone_region": "Asia",
+            "city_name": "Manila",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "293",
+            "country_code": "PK",
+            "country_name": "Pakistan",
+            "time_zone_region": "Asia",
+            "city_name": "Karachi",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "294",
+            "country_code": "PL",
+            "country_name": "Poland",
+            "time_zone_region": "Europe",
+            "city_name": "Warsaw",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "295",
+            "country_code": "PM",
+            "country_name": "Saint Pierre and Miquelon",
+            "time_zone_region": "America",
+            "city_name": "Miquelon",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "296",
+            "country_code": "PN",
+            "country_name": "Pitcairn",
+            "time_zone_region": "Pacific",
+            "city_name": "Pitcairn",
+            "time_zone_abbreviation": "PST",
+            "time_zone_name": "Pacific Standard Time",
+            "utc_offset": "UTC-08:00"
+        },
+        {
+            "time_zone_id": "297",
+            "country_code": "PR",
+            "country_name": "Puerto Rico",
+            "time_zone_region": "America",
+            "city_name": "Puerto_Rico",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "298",
+            "country_code": "PS",
+            "country_name": "Palestine, State of",
+            "time_zone_region": "Asia",
+            "city_name": "Gaza",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "299",
+            "country_code": "PS",
+            "country_name": "Palestine, State of",
+            "time_zone_region": "Asia",
+            "city_name": "Hebron",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "300",
+            "country_code": "PT",
+            "country_name": "Portugal",
+            "time_zone_region": "Europe",
+            "city_name": "Lisbon",
+            "time_zone_abbreviation": "CAT",
+            "time_zone_name": "Central African Time",
+            "utc_offset": "UTC-01:00"
+        },
+        {
+            "time_zone_id": "301",
+            "country_code": "PT",
+            "country_name": "Portugal",
+            "time_zone_region": "Atlantic",
+            "city_name": "Madeira",
+            "time_zone_abbreviation": "CAT",
+            "time_zone_name": "Central African Time",
+            "utc_offset": "UTC-01:00"
+        },
+        {
+            "time_zone_id": "302",
+            "country_code": "PT",
+            "country_name": "Portugal",
+            "time_zone_region": "Atlantic",
+            "city_name": "Azores",
+            "time_zone_abbreviation": "CAT",
+            "time_zone_name": "Central African Time",
+            "utc_offset": "UTC-01:00"
+        },
+        {
+            "time_zone_id": "303",
+            "country_code": "PW",
+            "country_name": "Palau",
+            "time_zone_region": "Pacific",
+            "city_name": "Palau",
+            "time_zone_abbreviation": "JST",
+            "time_zone_name": "Japan Standard Time",
+            "utc_offset": "UTC+09:00"
+        },
+        {
+            "time_zone_id": "304",
+            "country_code": "PY",
+            "country_name": "Paraguay",
+            "time_zone_region": "America",
+            "city_name": "Asuncion",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "305",
+            "country_code": "QA",
+            "country_name": "Qatar",
+            "time_zone_region": "Asia",
+            "city_name": "Qatar",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "306",
+            "country_code": "RE",
+            "country_name": "R√©union",
+            "time_zone_region": "Indian",
+            "city_name": "Reunion",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "307",
+            "country_code": "RO",
+            "country_name": "Romania",
+            "time_zone_region": "Europe",
+            "city_name": "Bucharest",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "308",
+            "country_code": "RS",
+            "country_name": "Serbia",
+            "time_zone_region": "Europe",
+            "city_name": "Belgrade",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "309",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Kaliningrad",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "310",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Moscow",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "311",
+            "country_code": "UA",
+            "country_name": "Ukraine",
+            "time_zone_region": "Europe",
+            "city_name": "Simferopol",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "312",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Kirov",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "313",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Astrakhan",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "314",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Volgograd",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "315",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Saratov",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "316",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Ulyanovsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "317",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Europe",
+            "city_name": "Samara",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "318",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Yekaterinburg",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "319",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Omsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "320",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Novosibirsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "321",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Barnaul",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "322",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Tomsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "323",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Novokuznetsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "324",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Krasnoyarsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "325",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Irkutsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "326",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Chita",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "327",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Yakutsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "328",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Khandyga",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "329",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Vladivostok",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "330",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Ust-Nera",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "331",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Magadan",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "332",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Sakhalin",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "333",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Srednekolymsk",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "334",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Kamchatka",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "335",
+            "country_code": "RU",
+            "country_name": "Russian Federation",
+            "time_zone_region": "Asia",
+            "city_name": "Anadyr",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "336",
+            "country_code": "RW",
+            "country_name": "Rwanda",
+            "time_zone_region": "Africa",
+            "city_name": "Kigali",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "337",
+            "country_code": "SA",
+            "country_name": "Saudi Arabia",
+            "time_zone_region": "Asia",
+            "city_name": "Riyadh",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "338",
+            "country_code": "SB",
+            "country_name": "Solomon Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Guadalcanal",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "339",
+            "country_code": "SC",
+            "country_name": "Seychelles",
+            "time_zone_region": "Indian",
+            "city_name": "Mahe",
+            "time_zone_abbreviation": "NET",
+            "time_zone_name": "Near East Time",
+            "utc_offset": "UTC+04:00"
+        },
+        {
+            "time_zone_id": "340",
+            "country_code": "SD",
+            "country_name": "Sudan",
+            "time_zone_region": "Africa",
+            "city_name": "Khartoum",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "341",
+            "country_code": "SE",
+            "country_name": "Sweden",
+            "time_zone_region": "Europe",
+            "city_name": "Stockholm",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "342",
+            "country_code": "SG",
+            "country_name": "Singapore",
+            "time_zone_region": "Asia",
+            "city_name": "Singapore",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "343",
+            "country_code": "SH",
+            "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+            "time_zone_region": "Atlantic",
+            "city_name": "St_Helena",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "344",
+            "country_code": "SI",
+            "country_name": "Slovenia",
+            "time_zone_region": "Europe",
+            "city_name": "Ljubljana",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "345",
+            "country_code": "SJ",
+            "country_name": "Svalbard and Jan Mayen",
+            "time_zone_region": "Arctic",
+            "city_name": "Longyearbyen",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "346",
+            "country_code": "SK",
+            "country_name": "Slovakia",
+            "time_zone_region": "Europe",
+            "city_name": "Bratislava",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "347",
+            "country_code": "SL",
+            "country_name": "Sierra Leone",
+            "time_zone_region": "Africa",
+            "city_name": "Freetown",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "348",
+            "country_code": "SM",
+            "country_name": "San Marino",
+            "time_zone_region": "Europe",
+            "city_name": "San_Marino",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "349",
+            "country_code": "SN",
+            "country_name": "Senegal",
+            "time_zone_region": "Africa",
+            "city_name": "Dakar",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "350",
+            "country_code": "SO",
+            "country_name": "Somalia",
+            "time_zone_region": "Africa",
+            "city_name": "Mogadishu",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "351",
+            "country_code": "SR",
+            "country_name": "Suriname",
+            "time_zone_region": "America",
+            "city_name": "Paramaribo",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "352",
+            "country_code": "SS",
+            "country_name": "South Sudan",
+            "time_zone_region": "Africa",
+            "city_name": "Juba",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "353",
+            "country_code": "ST",
+            "country_name": "Sao Tome and Principe",
+            "time_zone_region": "Africa",
+            "city_name": "Sao_Tome",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "354",
+            "country_code": "SV",
+            "country_name": "El Salvador",
+            "time_zone_region": "America",
+            "city_name": "El_Salvador",
+            "time_zone_abbreviation": "CST",
+            "time_zone_name": "Central Standard Time",
+            "utc_offset": "UTC-06:00"
+        },
+        {
+            "time_zone_id": "355",
+            "country_code": "SX",
+            "country_name": "Sint Maarten (Dutch part)",
+            "time_zone_region": "America",
+            "city_name": "Lower_Princes",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "356",
+            "country_code": "SY",
+            "country_name": "Syrian Arab Republic",
+            "time_zone_region": "Asia",
+            "city_name": "Damascus",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "357",
+            "country_code": "SZ",
+            "country_name": "Swaziland",
+            "time_zone_region": "Africa",
+            "city_name": "Mbabane",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "358",
+            "country_code": "TC",
+            "country_name": "Turks and Caicos Islands",
+            "time_zone_region": "America",
+            "city_name": "Grand_Turk",
+            "time_zone_abbreviation": "EST",
+            "time_zone_name": "Eastern Standard Time",
+            "utc_offset": "UTC-05:00"
+        },
+        {
+            "time_zone_id": "359",
+            "country_code": "TD",
+            "country_name": "Chad",
+            "time_zone_region": "Africa",
+            "city_name": "Ndjamena",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "360",
+            "country_code": "TF",
+            "country_name": "French Southern Territories",
+            "time_zone_region": "Indian",
+            "city_name": "Kerguelen",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "361",
+            "country_code": "TG",
+            "country_name": "Togo",
+            "time_zone_region": "Africa",
+            "city_name": "Lome",
+            "time_zone_abbreviation": "GMT",
+            "time_zone_name": "Greenwich Mean Time",
+            "utc_offset": "UTC"
+        },
+        {
+            "time_zone_id": "362",
+            "country_code": "TH",
+            "country_name": "Thailand",
+            "time_zone_region": "Asia",
+            "city_name": "Bangkok",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "363",
+            "country_code": "TJ",
+            "country_name": "Tajikistan",
+            "time_zone_region": "Asia",
+            "city_name": "Dushanbe",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "364",
+            "country_code": "TK",
+            "country_name": "Tokelau",
+            "time_zone_region": "Pacific",
+            "city_name": "Fakaofo",
+            "time_zone_abbreviation": "TKT",
+            "time_zone_name": "Tokelau Time",
+            "utc_offset": "UTC+13:00"
+        },
+        {
+            "time_zone_id": "365",
+            "country_code": "TL",
+            "country_name": "Timor-Leste",
+            "time_zone_region": "Asia",
+            "city_name": "Dili",
+            "time_zone_abbreviation": "JST",
+            "time_zone_name": "Japan Standard Time",
+            "utc_offset": "UTC+09:00"
+        },
+        {
+            "time_zone_id": "366",
+            "country_code": "TM",
+            "country_name": "Turkmenistan",
+            "time_zone_region": "Asia",
+            "city_name": "Ashgabat",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "367",
+            "country_code": "TN",
+            "country_name": "Tunisia",
+            "time_zone_region": "Africa",
+            "city_name": "Tunis",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "368",
+            "country_code": "TO",
+            "country_name": "Tonga",
+            "time_zone_region": "Pacific",
+            "city_name": "Tongatapu",
+            "time_zone_abbreviation": "TOT",
+            "time_zone_name": "Tonga Time",
+            "utc_offset": "UTC+13:00"
+        },
+        {
+            "time_zone_id": "369",
+            "country_code": "TR",
+            "country_name": "Turkey",
+            "time_zone_region": "Europe",
+            "city_name": "Istanbul",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "370",
+            "country_code": "TT",
+            "country_name": "Trinidad and Tobago",
+            "time_zone_region": "America",
+            "city_name": "Port_of_Spain",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "371",
+            "country_code": "TV",
+            "country_name": "Tuvalu",
+            "time_zone_region": "Pacific",
+            "city_name": "Funafuti",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "372",
+            "country_code": "TW",
+            "country_name": "Taiwan, Province of China",
+            "time_zone_region": "Asia",
+            "city_name": "Taipei",
+            "time_zone_abbreviation": "CTT",
+            "time_zone_name": "China Taiwan Time",
+            "utc_offset": "UTC+08:00"
+        },
+        {
+            "time_zone_id": "373",
+            "country_code": "TZ",
+            "country_name": "Tanzania, United Republic of",
+            "time_zone_region": "Africa",
+            "city_name": "Dar_es_Salaam",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "374",
+            "country_code": "UA",
+            "country_name": "Ukraine",
+            "time_zone_region": "Europe",
+            "city_name": "Kiev",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "375",
+            "country_code": "UA",
+            "country_name": "Ukraine",
+            "time_zone_region": "Europe",
+            "city_name": "Uzhgorod",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "376",
+            "country_code": "UA",
+            "country_name": "Ukraine",
+            "time_zone_region": "Europe",
+            "city_name": "Zaporozhye",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "377",
+            "country_code": "UG",
+            "country_name": "Uganda",
+            "time_zone_region": "Africa",
+            "city_name": "Kampala",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "378",
+            "country_code": "UM",
+            "country_name": "United States Minor Outlying Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Midway",
+            "time_zone_abbreviation": "MIT",
+            "time_zone_name": "Midway Islands Time",
+            "utc_offset": "UTC-11:00"
+        },
+        {
+            "time_zone_id": "379",
+            "country_code": "UM",
+            "country_name": "United States Minor Outlying Islands",
+            "time_zone_region": "Pacific",
+            "city_name": "Wake",
+            "time_zone_abbreviation": "MIT",
+            "time_zone_name": "Midway Islands Time",
+            "utc_offset": "UTC-11:00"
+        },
+        {
+            "time_zone_id": "380",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "New_York",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "381",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Detroit",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "382",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Louisville",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "383",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Monticello",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "384",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Indianapolis",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "385",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Vincennes",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "386",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Winamac",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "387",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Marengo",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "388",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Petersburg",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "389",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Vevay",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "390",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Chicago",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "391",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Tell_City",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "392",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Knox",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "393",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Menominee",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "394",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Center",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "395",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "New_Salem",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "396",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Beulah",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "397",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Denver",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "398",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Boise",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "399",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Phoenix",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "400",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Los_Angeles",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "401",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Anchorage",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "402",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Juneau",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "403",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Sitka",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "404",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Metlakatla",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "405",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Yakutat",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "406",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Nome",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "407",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "America",
+            "city_name": "Adak",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "408",
+            "country_code": "US",
+            "country_name": "United States",
+            "time_zone_region": "Pacific",
+            "city_name": "Honolulu",
+            "time_zone_abbreviation": "HST",
+            "time_zone_name": "Hawaii Standard Time",
+            "utc_offset": "UTC-10:00"
+        },
+        {
+            "time_zone_id": "409",
+            "country_code": "UY",
+            "country_name": "Uruguay",
+            "time_zone_region": "America",
+            "city_name": "Montevideo",
+            "time_zone_abbreviation": "AGT",
+            "time_zone_name": "Argentina Standard Time",
+            "utc_offset": "UTC-03:00"
+        },
+        {
+            "time_zone_id": "410",
+            "country_code": "UZ",
+            "country_name": "Uzbekistan",
+            "time_zone_region": "Asia",
+            "city_name": "Samarkand",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "411",
+            "country_code": "UZ",
+            "country_name": "Uzbekistan",
+            "time_zone_region": "Asia",
+            "city_name": "Tashkent",
+            "time_zone_abbreviation": "PLT",
+            "time_zone_name": "Pakistan Lahore Time",
+            "utc_offset": "UTC+05:00"
+        },
+        {
+            "time_zone_id": "412",
+            "country_code": "VA",
+            "country_name": "Holy See (Vatican City State)",
+            "time_zone_region": "Europe",
+            "city_name": "Vatican",
+            "time_zone_abbreviation": "ECT",
+            "time_zone_name": "European Central Time",
+            "utc_offset": "UTC+01:00"
+        },
+        {
+            "time_zone_id": "413",
+            "country_code": "VC",
+            "country_name": "Saint Vincent and the Grenadines",
+            "time_zone_region": "America",
+            "city_name": "St_Vincent",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "414",
+            "country_code": "VE",
+            "country_name": "Venezuela, Bolivarian Republic of",
+            "time_zone_region": "America",
+            "city_name": "Caracas",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "415",
+            "country_code": "VG",
+            "country_name": "Virgin Islands, British",
+            "time_zone_region": "America",
+            "city_name": "Tortola",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "416",
+            "country_code": "VI",
+            "country_name": "Virgin Islands, U.S.",
+            "time_zone_region": "America",
+            "city_name": "St_Thomas",
+            "time_zone_abbreviation": "PRT",
+            "time_zone_name": "Puerto Rico and US Virgin Islands Time",
+            "utc_offset": "UTC-04:00"
+        },
+        {
+            "time_zone_id": "417",
+            "country_code": "VN",
+            "country_name": "Viet Nam",
+            "time_zone_region": "Asia",
+            "city_name": "Ho_Chi_Minh",
+            "time_zone_abbreviation": "VST",
+            "time_zone_name": "Vietnam Standard Time",
+            "utc_offset": "UTC+07:00"
+        },
+        {
+            "time_zone_id": "418",
+            "country_code": "VU",
+            "country_name": "Vanuatu",
+            "time_zone_region": "Pacific",
+            "city_name": "Efate",
+            "time_zone_abbreviation": "SST",
+            "time_zone_name": "Solomon Standard Time",
+            "utc_offset": "UTC+11:00"
+        },
+        {
+            "time_zone_id": "419",
+            "country_code": "WF",
+            "country_name": "Wallis and Futuna",
+            "time_zone_region": "Pacific",
+            "city_name": "Wallis",
+            "time_zone_abbreviation": "NST",
+            "time_zone_name": "New Zealand Standard Time",
+            "utc_offset": "UTC+12:00"
+        },
+        {
+            "time_zone_id": "420",
+            "country_code": "WS",
+            "country_name": "Samoa",
+            "time_zone_region": "Pacific",
+            "city_name": "Apia",
+            "time_zone_abbreviation": "WST",
+            "time_zone_name": "West Samoa Time",
+            "utc_offset": "UTC+14:00"
+        },
+        {
+            "time_zone_id": "421",
+            "country_code": "YE",
+            "country_name": "Yemen",
+            "time_zone_region": "Asia",
+            "city_name": "Aden",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "422",
+            "country_code": "YT",
+            "country_name": "Mayotte",
+            "time_zone_region": "Indian",
+            "city_name": "Mayotte",
+            "time_zone_abbreviation": "EAT",
+            "time_zone_name": "Eastern African Time",
+            "utc_offset": "UTC+03:00"
+        },
+        {
+            "time_zone_id": "423",
+            "country_code": "ZA",
+            "country_name": "South Africa",
+            "time_zone_region": "Africa",
+            "city_name": "Johannesburg",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "424",
+            "country_code": "ZM",
+            "country_name": "Zambia",
+            "time_zone_region": "Africa",
+            "city_name": "Lusaka",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        },
+        {
+            "time_zone_id": "425",
+            "country_code": "ZW",
+            "country_name": "Zimbabwe",
+            "time_zone_region": "Africa",
+            "city_name": "Harare",
+            "time_zone_abbreviation": "EET",
+            "time_zone_name": "Eastern European Time",
+            "utc_offset": "UTC+02:00"
+        }
+    }
+}
